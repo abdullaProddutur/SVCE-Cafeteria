@@ -1,6 +1,4 @@
 "use client";
-export const dynamic = "force-dynamic";
-
 
 import { auth } from "@/lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
